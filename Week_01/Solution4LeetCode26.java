@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 // [0,0,0,0,1,1]
 public class Solution4LeetCode26 {
 
